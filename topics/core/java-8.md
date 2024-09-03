@@ -180,4 +180,6 @@ To fix this, set the field to hot field by using @Contented so that JVM can pad 
 
 [Talk explaining the @Contented](https://www.youtube.com/watch?v=Q_0_1mKTlnY)
 
+[Java 8 Interview Questions](https://boldcoder.blogspot.com/2024/09/java-8-interview-questions.html)
+
 
